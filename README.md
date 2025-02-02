@@ -23,7 +23,7 @@ This Python project fetches real-time cryptocurrency prices using the **CoinGeck
 ## 🔧 Installation
 1. Clone the repository or download the files:
    ```bash
-   git clone https://github.com/your-username/crypto-alert.git
+   git clone https://github.com/sks01dev/crypto-alert.git
    cd crypto-alert
    ```
 2. Install dependencies:
